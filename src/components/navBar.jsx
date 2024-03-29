@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../assets/logo.svg';
 import search from '../assets/bx_search.svg';
+import "../styles/navbar.css"
 
 const Navbar = () => {
 
